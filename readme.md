@@ -15,10 +15,10 @@ README.md - Homicidios por Siniestros Viales en la Ciudad Autónoma de Buenos Ai
 ## Licencia
 
 
-1. Título del Proyecto
+## 1. Título del Proyecto
 Homicidios por Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA)
 
-2. Descripción
+## 2. Descripción
 Este proyecto de Data Science se centra en el análisis de homicidios derivados de siniestros viales en la Ciudad Autónoma de Buenos Aires (CABA). Utilizando una base de datos sobre estos incidentes, el objetivo es explorar patrones y tendencias, así como realizar una limpieza y transformación de los datos para su posterior visualización mediante un dashboard en Power BI.
 
 Objetivos principales:
