@@ -1,23 +1,18 @@
 # Homicidios por Siniestros Viales en la Ciudad Autónoma de Buenos Aires: Análisis de Datos para la Reducción de Víctimas Fatales
 
 ## Tabla de Contenido
-1. [Título del Proyecto](#título-del-proyecto)
-2. [Descripción](#descripción)
-3. [Estructura del Proyecto](#estructura-del-proyecto)
+1. [Descripción](#descripción)
+2. [Estructura del Proyecto](#estructura-del-proyecto)
    - [Limpieza de Datos](#limpieza-de-datos)
    - [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
    - [ETL](#etl)
    - [Dashboard en Power BI](#dashboard-en-power-bi)
-4. [Requerimientos](#requerimientos)
-5. [Instrucciones de Instalación](#instrucciones-de-instalación)
-6. [Uso](#uso)
-7. [Dashboard](#dashboard)
-8. [Licencia](#licencia)
+3. [Requerimientos](#requerimientos)
+4. [Instrucciones de Instalación](#instrucciones-de-instalación)
+5. [Uso](#uso)
+6. [Dashboard](#dashboard)78. [Licencia](#licencia)
 
-## 1. Título del Proyecto
-Homicidios por Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA)
-
-## 2. Descripción
+## 1. Descripción
 Este proyecto de Data Science se centra en el análisis de homicidios derivados de siniestros viales en la Ciudad Autónoma de Buenos Aires (CABA). Utilizando una base de datos sobre estos incidentes, el objetivo es explorar patrones y tendencias, así como realizar una limpieza y transformación de los datos para su posterior visualización mediante un dashboard en Power BI.
 
 Objetivos principales:
