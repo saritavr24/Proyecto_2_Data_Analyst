@@ -48,17 +48,20 @@ Las siguientes librerías son necesarias para ejecutar el análisis:
 
 ```bash
 pip install pandas numpy seaborn matplotlib
+```
 
 ## 5. Instrucciones de Instalación
 Clona este repositorio y accede al proyecto localmente:
 ```bash
 git clone https://github.com/tu_usuario/tu_proyecto.git
-cd tu_proyecto```
+cd tu_proyecto
+```
 
 Ejecuta el archivo Jupyter Notebook para reproducir el análisis:
 
 ```bash
 jupyter notebook EDA.ipynb
+```
 
 ## 6. Uso
 Una vez que hayas ejecutado el notebook, el DataFrame final datos_homicidios_final.csv se generará y estará listo para ser utilizado en el dashboard de Power BI. A continuación, se puede cargar este archivo en Power BI para visualizar los datos de forma interactiva.
