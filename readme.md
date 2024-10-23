@@ -8,6 +8,8 @@
    - [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
    - [Dashboard en Power BI](#dashboard-en-power-bi)
 4. [KPIs](#kpis)
+5. [Conclusiones](#conclusiones)
+6. [Propuestas](#propuestas)
 
 ## 1. Descripción
 A continuación, se presenta un proyecto de análisis de datos basado en un dataset sobre homicidios en siniestros viales ocurridos en la Ciudad Autónoma de Buenos Aires entre 2016 y 2021. El proyecto incluyó un proceso de limpieza, transformación y normalización de datos, seguido de un análisis exploratorio y un estudio detallado de la problemática. Para concluir, se desarrolló un dashboard en Power BI que muestra las conclusiones y propuestas obtenidas a lo largo del análisis.
@@ -53,7 +55,7 @@ DE LA UBICACIÓN:
 -61,64% de los accidentes suceden en Avenidas.
 -75,43% de los accidentes ocurre en Cruces.
 
-## 6. Propuestas:
+## 6. Propuestas
 -Campañas de concientización dirigidas a hombres, motociclistas y personas entre 26 y 50 años, es crucial diseñar campañas de seguridad vial enfocadas en estos grupos, resaltando comportamientos de conducción segura, uso de dispositivos de protección, cumplimiento de las normas de tránsito, maniobras evasivas, manejo en condiciones peligrosas, revisiones sobre los factores de riesgo comunes como el cansancio, la distracción al volante y la velocidad.
 -Implementar operativos de control de velocidad y alcoholemia en la mañana puede ayudar a reducir los siniestros en este horario.
 -Refuerzos de controles de tránsito en Diciembre, cuando los niveles de movilidad y estrés son mayores debido a festividades, pueden ser efectivos para reducir accidentes.
