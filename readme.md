@@ -43,15 +43,15 @@ Estos indicadores clave de rendimiento planteados nos ayudan a entender si se es
 
 ## 5. Conclusiones
 Cantidad de casos: 696 accidentes viales con un total de 717 víctimas.
-DE LAS VÍCTIMAS:
+- DE LAS VÍCTIMAS:
 - 77% de las víctimas son de género masculino.
 - 42,12% de las víctimas son motos.
 - 52,16% se encuentran en edades entre 26 y 50 años.
-DEL TIEMPO:
+- DEL TIEMPO:
 - 25,62% de los accidentes ocurren en horario de la Mañana.
 - 70,43% de los accidentes ocurren en Semana.
 - Diciembre es el mes con mayor cantidad de casos.
-DE LA UBICACIÓN:
+- DE LA UBICACIÓN:
 - 61,64% de los accidentes suceden en Avenidas.
 - 75,43% de los accidentes ocurre en Cruces.
 
