@@ -44,24 +44,24 @@ Estos indicadores clave de rendimiento planteados nos ayudan a entender si se es
 ## 5. Conclusiones
 Cantidad de casos: 696 accidentes viales con un total de 717 víctimas.
 DE LAS VÍCTIMAS:
--77% de las víctimas son de género masculino.
--42,12% de las víctimas son motos.
--52,16% se encuentran en edades entre 26 y 50 años.
+- 77% de las víctimas son de género masculino.
+- 42,12% de las víctimas son motos.
+- 52,16% se encuentran en edades entre 26 y 50 años.
 DEL TIEMPO:
--25,62% de los accidentes ocurren en horario de la Mañana.
--70,43% de los accidentes ocurren en Semana.
--Diciembre es el mes con mayor cantidad de casos.
+- 25,62% de los accidentes ocurren en horario de la Mañana.
+- 70,43% de los accidentes ocurren en Semana.
+- Diciembre es el mes con mayor cantidad de casos.
 DE LA UBICACIÓN:
--61,64% de los accidentes suceden en Avenidas.
--75,43% de los accidentes ocurre en Cruces.
+- 61,64% de los accidentes suceden en Avenidas.
+- 75,43% de los accidentes ocurre en Cruces.
 
 ## 6. Propuestas
--Campañas de concientización dirigidas a hombres, motociclistas y personas entre 26 y 50 años, es crucial diseñar campañas de seguridad vial enfocadas en estos grupos, resaltando comportamientos de conducción segura, uso de dispositivos de protección, cumplimiento de las normas de tránsito, maniobras evasivas, manejo en condiciones peligrosas, revisiones sobre los factores de riesgo comunes como el cansancio, la distracción al volante y la velocidad.
--Implementar operativos de control de velocidad y alcoholemia en la mañana puede ayudar a reducir los siniestros en este horario.
--Refuerzos de controles de tránsito en Diciembre, cuando los niveles de movilidad y estrés son mayores debido a festividades, pueden ser efectivos para reducir accidentes.
--Dado que más del 60% de los siniestros ocurren en avenidas, sería beneficioso mejorar la señalización, iluminación, y controles de velocidad en estas zonas.
--Implementar dispositivos de seguridad en cruces (semáforos, señales de advertencia, y pasos de peatones mejor señalizados) puede ser crucial para reducir los siniestros en estos puntos conflictivos.
--Colocar cámaras o radares de control de velocidad en las intersecciones más propensas a accidentes.
+- Campañas de concientización dirigidas a hombres, motociclistas y personas entre 26 y 50 años, es crucial diseñar campañas de seguridad vial enfocadas en estos grupos, resaltando comportamientos de conducción segura, uso de dispositivos de protección, cumplimiento de las normas de tránsito, maniobras evasivas, manejo en condiciones peligrosas, revisiones sobre los factores de riesgo comunes como el cansancio, la distracción al volante y la velocidad.
+- Implementar operativos de control de velocidad y alcoholemia en la mañana puede ayudar a reducir los siniestros en este horario.
+- Refuerzos de controles de tránsito en Diciembre, cuando los niveles de movilidad y estrés son mayores debido a festividades, pueden ser efectivos para reducir accidentes.
+- Dado que más del 60% de los siniestros ocurren en avenidas, sería beneficioso mejorar la señalización, iluminación, y controles de velocidad en estas zonas.
+- Implementar dispositivos de seguridad en cruces (semáforos, señales de advertencia, y pasos de peatones mejor señalizados) puede ser crucial para reducir los siniestros en estos puntos conflictivos.
+- Colocar cámaras o radares de control de velocidad en las intersecciones más propensas a accidentes.
 
 ## Autor(a)
 Sarita Vallejo Ramírez
