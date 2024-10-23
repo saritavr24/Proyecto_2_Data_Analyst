@@ -10,6 +10,7 @@ Objetivos principales:
 Limpieza de datos y preparación para el análisis.
 Análisis exploratorio de datos (EDA) para detectar patrones relevantes.
 Creación de un dashboard interactivo en Power BI para visualizar los resultados.
+
 3. Estructura del Proyecto
 Este proyecto consta de las siguientes etapas principales:
 
@@ -27,24 +28,22 @@ Los datos fueron procesados y transformados en un formato limpio, lo que permiti
 Dashboard en Power BI:
 
 Se creó un dashboard interactivo que permite a los usuarios visualizar los principales hallazgos y métricas relevantes.
+
 4. Requerimientos
 Las siguientes librerías son necesarias para ejecutar el análisis:
 
-bash
-Copiar código
 pip install pandas numpy seaborn matplotlib
+
 5. Instrucciones de Instalación
 Clona este repositorio y accede al proyecto localmente:
 
-bash
-Copiar código
-git clone https://github.com/tu_usuario/tu_proyecto.git
-cd tu_proyecto
+git clone https://github.com/saritavr24/Proyecto_2_Data_Analyst
+cd Proyecto_2_Data_Analyst
+
 Ejecuta el archivo Jupyter Notebook para reproducir el análisis:
 
-bash
-Copiar código
 jupyter notebook EDA.ipynb
+
 6. Uso
 Una vez que hayas ejecutado el notebook, el DataFrame final datos_homicidios_final.csv se generará y estará listo para ser utilizado en el dashboard de Power BI. A continuación, se puede cargar este archivo en Power BI para visualizar los datos de forma interactiva.
 
