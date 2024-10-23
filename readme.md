@@ -6,7 +6,6 @@
 3. [Estructura del Proyecto](#estructura-del-proyecto)
    - [Limpieza de Datos](#limpieza-de-datos)
    - [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
-   - [ETL](#etl)
    - [Dashboard en Power BI](#dashboard-en-power-bi)
 4. [Instrucciones de Instalación](#instrucciones-de-instalación)
 5. [Uso](#uso)
@@ -30,8 +29,8 @@ Se realiza chequeo de nulos, tratamiento de valores faltantes y duplicados, veri
 Se utiliza un diccionario de datos para entender las variables claves de los siniestros viales.
 
 ### Análisis Exploratorio de Datos (EDA)
-Se realizaron visualizaciones de las variables más importantes, tales como: año del homicidio, relación entre acusados y fallecidos, y análisis de la tasa de homicidios por cada 100,000 habitantes.
-Se identificaron las principales causas y características de los siniestros viales que resultan en homicidios.
+Se realizaron graficos de las variables más importantes, tales como: accidentes por año, mes, día y hora, género, tipo de calle, rango etario, entre otros.
+Se identificaron las principales causas y características de los siniestros viales.
 
 ### Dashboard en Power BI
 Se creó un dashboard interactivo que permite visualizar los patrones más recurrentes en los siniestros viales, las conclusiones de todo el análisis realizado y las propuestas para reducir las víctimas fatales en los accidentes.
