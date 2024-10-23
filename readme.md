@@ -13,7 +13,7 @@
 6. [Dashboard](#dashboard)78. [Licencia](#licencia)
 
 ## 1. Descripción
-Este proyecto de Data Science se centra en el análisis de homicidios derivados de siniestros viales en la Ciudad Autónoma de Buenos Aires (CABA). Utilizando una base de datos sobre estos incidentes, el objetivo es explorar patrones y tendencias, así como realizar una limpieza y transformación de los datos para su posterior visualización mediante un dashboard en Power BI.
+A continuación, se presenta un proyecto de análisis de datos basado en dataset sobre homicidios en siniestros viales ocurridos en la Ciudad Autónoma de Buenos Aires entre 2016 y 2021. El proyecto incluyó un proceso de limpieza, transformación y normalización de datos, seguido de un análisis exploratorio y un estudio detallado de la problemática. Para concluir, se desarrolló un dashboard en Power BI que muestra las conclusiones y propuestas obtenidas a lo largo del análisis.
 
 Objetivos principales:
 
