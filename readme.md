@@ -2,7 +2,8 @@
 
 ## Tabla de Contenido
 1. [Descripción](#descripción)
-2. [Estructura del Proyecto](#estructura-del-proyecto)
+2. [Dataset](#dataset)
+3. [Estructura del Proyecto](#estructura-del-proyecto)
    - [Limpieza de Datos](#limpieza-de-datos)
    - [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
    - [ETL](#etl)
@@ -17,11 +18,11 @@ A continuación, se presenta un proyecto de análisis de datos basado en un data
 ## 2. Dataset
 Para este proyecto se trabajó con la Base de Víctimas Fatales en Siniestros Viales que se encuentra en formato de Excel y contiene dos pestañas de datos:
 
-HECHOS: Contiene una fila de hecho con id único y las variables temporales, espaciales y participantes asociadas al mismo.
-VICTIMAS: Contiene una fila por cada víctima de los hechos y las variables edad, sexo y modo de desplazamiento asociadas a cada víctima. Se vincula a los HECHOS mediante el id del hecho.
-En este https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales se encuentran los datos utilizados en el análisis.
+- HECHOS: Contiene una fila de hecho con id único y las variables temporales, espaciales y participantes asociadas al mismo.
+- VICTIMAS: Contiene una fila por cada víctima de los hechos y las variables edad, sexo y modo de desplazamiento asociadas a cada víctima. Se vincula a los HECHOS mediante el id del hecho.
+En este link: https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales se encuentran los datos utilizados en el análisis.
 
-Estructura del Proyecto
+## 3. Estructura del Proyecto
 Este proyecto consta de las siguientes etapas principales:
 
 ### Limpieza de Datos
