@@ -53,7 +53,7 @@ pip install pandas numpy seaborn matplotlib
 Clona este repositorio y accede al proyecto localmente:
 ```bash
 git clone https://github.com/tu_usuario/tu_proyecto.git
-cd tu_proyecto
+cd tu_proyecto```
 
 Ejecuta el archivo Jupyter Notebook para reproducir el análisis:
 
