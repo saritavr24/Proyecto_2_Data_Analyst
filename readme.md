@@ -63,5 +63,5 @@ DE LA UBICACIÓN:
 -Implementar dispositivos de seguridad en cruces (semáforos, señales de advertencia, y pasos de peatones mejor señalizados) puede ser crucial para reducir los siniestros en estos puntos conflictivos.
 -Colocar cámaras o radares de control de velocidad en las intersecciones más propensas a accidentes.
 
-## Autor
+## Autor(a)
 Sarita Vallejo Ramírez
