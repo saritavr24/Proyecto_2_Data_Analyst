@@ -14,7 +14,14 @@
 ## 1. Descripción
 A continuación, se presenta un proyecto de análisis de datos basado en un dataset sobre homicidios en siniestros viales ocurridos en la Ciudad Autónoma de Buenos Aires entre 2016 y 2021. El proyecto incluyó un proceso de limpieza, transformación y normalización de datos, seguido de un análisis exploratorio y un estudio detallado de la problemática. Para concluir, se desarrolló un dashboard en Power BI que muestra las conclusiones y propuestas obtenidas a lo largo del análisis.
 
-## 2. Estructura del Proyecto
+## 2. Dataset
+Para este proyecto se trabajó con la Base de Víctimas Fatales en Siniestros Viales que se encuentra en formato de Excel y contiene dos pestañas de datos:
+
+HECHOS: Contiene una fila de hecho con id único y las variables temporales, espaciales y participantes asociadas al mismo.
+VICTIMAS: Contiene una fila por cada víctima de los hechos y las variables edad, sexo y modo de desplazamiento asociadas a cada víctima. Se vincula a los HECHOS mediante el id del hecho.
+En este https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales se encuentran los datos utilizados en el análisis.
+
+Estructura del Proyecto
 Este proyecto consta de las siguientes etapas principales:
 
 ### Limpieza de Datos
