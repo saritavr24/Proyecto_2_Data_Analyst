@@ -7,9 +7,7 @@
    - [Limpieza de Datos](#limpieza-de-datos)
    - [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
    - [Dashboard en Power BI](#dashboard-en-power-bi)
-4. [Instrucciones de Instalación](#instrucciones-de-instalación)
-5. [Uso](#uso)
-6. [Dashboard](#dashboard)78. [Licencia](#licencia)
+4. [KPIs](#kpis)
 
 ## 1. Descripción
 A continuación, se presenta un proyecto de análisis de datos basado en un dataset sobre homicidios en siniestros viales ocurridos en la Ciudad Autónoma de Buenos Aires entre 2016 y 2021. El proyecto incluyó un proceso de limpieza, transformación y normalización de datos, seguido de un análisis exploratorio y un estudio detallado de la problemática. Para concluir, se desarrolló un dashboard en Power BI que muestra las conclusiones y propuestas obtenidas a lo largo del análisis.
@@ -33,13 +31,35 @@ Se realizaron graficos de las variables más importantes, tales como: accidentes
 Se identificaron las principales causas y características de los siniestros viales.
 
 ### Dashboard en Power BI
-Se creó un dashboard interactivo que permite visualizar los patrones más recurrentes en los siniestros viales, las conclusiones de todo el análisis realizado y las propuestas para reducir las víctimas fatales en los accidentes.
+Se creó un dashboard interactivo que permite visualizar los patrones más recurrentes en los siniestros viales, realizando un análisis por víctimas, por tiempo y por ubicación, además presenta las conclusiones de todo el análisis realizado y las propuestas para reducir las víctimas fatales en los accidentes.
 
-## 6. Uso
-Una vez que hayas ejecutado el notebook, el DataFrame final datos_homicidios_final.csv se generará y estará listo para ser utilizado en el dashboard de Power BI. A continuación, se puede cargar este archivo en Power BI para visualizar los datos de forma interactiva.
+## 4. KPIs
+Estos indicadores clave de rendimiento planteados nos ayudan a entender si se están alcanzando las metas estratégicas o tácticas, permitiendo tomar decisiones informadas para continuar o mejorar con la reducción de siniestros viales.
+- Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
+- Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
+- Reducir en un 10% la cantidad de accidentes mortales en intersecciones o cruces en el último semestre, en CABA, respecto al semestre anterior.
 
-7. Dashboard
-El dashboard se encuentra en el archivo Dashboard.pbix (disponible en este repositorio) y puede ser visualizado utilizando Power BI Desktop. Si el dashboard está publicado, también puedes acceder mediante el siguiente enlace: Dashboard en Power BI.
+## 5. Conclusiones
+Cantidad de casos: 696 accidentes viales con un total de 717 víctimas.
+DE LAS VÍCTIMAS:
+-77% de las víctimas son de género masculino.
+-42,12% de las víctimas son motos.
+-52,16% se encuentran en edades entre 26 y 50 años.
+DEL TIEMPO:
+-25,62% de los accidentes ocurren en horario de la Mañana.
+-70,43% de los accidentes ocurren en Semana.
+-Diciembre es el mes con mayor cantidad de casos.
+DE LA UBICACIÓN:
+-61,64% de los accidentes suceden en Avenidas.
+-75,43% de los accidentes ocurre en Cruces.
 
-8. Licencia
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
+## 6. Propuestas:
+-Campañas de concientización dirigidas a hombres, motociclistas y personas entre 26 y 50 años, es crucial diseñar campañas de seguridad vial enfocadas en estos grupos, resaltando comportamientos de conducción segura, uso de dispositivos de protección, cumplimiento de las normas de tránsito, maniobras evasivas, manejo en condiciones peligrosas, revisiones sobre los factores de riesgo comunes como el cansancio, la distracción al volante y la velocidad.
+-Implementar operativos de control de velocidad y alcoholemia en la mañana puede ayudar a reducir los siniestros en este horario.
+-Refuerzos de controles de tránsito en Diciembre, cuando los niveles de movilidad y estrés son mayores debido a festividades, pueden ser efectivos para reducir accidentes.
+-Dado que más del 60% de los siniestros ocurren en avenidas, sería beneficioso mejorar la señalización, iluminación, y controles de velocidad en estas zonas.
+-Implementar dispositivos de seguridad en cruces (semáforos, señales de advertencia, y pasos de peatones mejor señalizados) puede ser crucial para reducir los siniestros en estos puntos conflictivos.
+-Colocar cámaras o radares de control de velocidad en las intersecciones más propensas a accidentes.
+
+## Autor
+Sarita Vallejo Ramírez
