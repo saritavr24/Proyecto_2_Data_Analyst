@@ -1,19 +1,18 @@
-README.md - Homicidios por Siniestros Viales en la Ciudad Autónoma de Buenos Aires
+# Homicidios por Siniestros Viales en la Ciudad Autónoma de Buenos Aires
 
 ## Tabla de Contenido
-## Título del Proyecto
-## Descripción
-## Estructura del Proyecto
-### Limpieza de Datos
-### Análisis Exploratorio de Datos (EDA)
-### ETL
-### Dashboard en Power BI
-## Requerimientos
-## Instrucciones de Instalación
-## Uso
-## Dashboard
-## Licencia
-
+1. [Título del Proyecto](#título-del-proyecto)
+2. [Descripción](#descripción)
+3. [Estructura del Proyecto](#estructura-del-proyecto)
+   - [Limpieza de Datos](#limpieza-de-datos)
+   - [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
+   - [ETL](#etl)
+   - [Dashboard en Power BI](#dashboard-en-power-bi)
+4. [Requerimientos](#requerimientos)
+5. [Instrucciones de Instalación](#instrucciones-de-instalación)
+6. [Uso](#uso)
+7. [Dashboard](#dashboard)
+8. [Licencia](#licencia)
 
 ## 1. Título del Proyecto
 Homicidios por Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA)
@@ -23,44 +22,45 @@ Este proyecto de Data Science se centra en el análisis de homicidios derivados 
 
 Objetivos principales:
 
-Limpieza de datos y preparación para el análisis.
-Análisis exploratorio de datos (EDA) para detectar patrones relevantes.
-Creación de un dashboard interactivo en Power BI para visualizar los resultados.
+- Limpieza de datos y preparación para el análisis.
+- Análisis exploratorio de datos (EDA) para detectar patrones relevantes.
+- Creación de un dashboard interactivo en Power BI para visualizar los resultados.
 
-3. Estructura del Proyecto
+## 3. Estructura del Proyecto
 Este proyecto consta de las siguientes etapas principales:
 
-Limpieza de Datos:
-
+### Limpieza de Datos
 Se eliminan valores faltantes y se corrigen inconsistencias en las columnas principales.
 Se utiliza un diccionario de datos para entender las variables claves de los siniestros viales.
-Análisis Exploratorio de Datos (EDA):
 
+### Análisis Exploratorio de Datos (EDA)
 Se realizaron visualizaciones de las variables más importantes, tales como: año del homicidio, relación entre acusados y fallecidos, y análisis de la tasa de homicidios por cada 100,000 habitantes.
 Se identificaron las principales causas y características de los siniestros viales que resultan en homicidios.
-ETL (Extracción, Transformación y Carga):
 
+### ETL
 Los datos fueron procesados y transformados en un formato limpio, lo que permitió su análisis y preparación para el dashboard en Power BI.
-Dashboard en Power BI:
 
+### Dashboard en Power BI
 Se creó un dashboard interactivo que permite a los usuarios visualizar los principales hallazgos y métricas relevantes.
 
-4. Requerimientos
+## 4. Requerimientos
 Las siguientes librerías son necesarias para ejecutar el análisis:
 
+```bash
 pip install pandas numpy seaborn matplotlib
 
-5. Instrucciones de Instalación
+## 5. Instrucciones de Instalación
 Clona este repositorio y accede al proyecto localmente:
-
-git clone https://github.com/saritavr24/Proyecto_2_Data_Analyst
-cd Proyecto_2_Data_Analyst
+```bash
+git clone https://github.com/tu_usuario/tu_proyecto.git
+cd tu_proyecto
 
 Ejecuta el archivo Jupyter Notebook para reproducir el análisis:
 
+```bash
 jupyter notebook EDA.ipynb
 
-6. Uso
+## 6. Uso
 Una vez que hayas ejecutado el notebook, el DataFrame final datos_homicidios_final.csv se generará y estará listo para ser utilizado en el dashboard de Power BI. A continuación, se puede cargar este archivo en Power BI para visualizar los datos de forma interactiva.
 
 7. Dashboard
