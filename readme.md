@@ -13,19 +13,13 @@
 6. [Dashboard](#dashboard)78. [Licencia](#licencia)
 
 ## 1. Descripción
-A continuación, se presenta un proyecto de análisis de datos basado en dataset sobre homicidios en siniestros viales ocurridos en la Ciudad Autónoma de Buenos Aires entre 2016 y 2021. El proyecto incluyó un proceso de limpieza, transformación y normalización de datos, seguido de un análisis exploratorio y un estudio detallado de la problemática. Para concluir, se desarrolló un dashboard en Power BI que muestra las conclusiones y propuestas obtenidas a lo largo del análisis.
+A continuación, se presenta un proyecto de análisis de datos basado en un dataset sobre homicidios en siniestros viales ocurridos en la Ciudad Autónoma de Buenos Aires entre 2016 y 2021. El proyecto incluyó un proceso de limpieza, transformación y normalización de datos, seguido de un análisis exploratorio y un estudio detallado de la problemática. Para concluir, se desarrolló un dashboard en Power BI que muestra las conclusiones y propuestas obtenidas a lo largo del análisis.
 
-Objetivos principales:
-
-- Limpieza de datos y preparación para el análisis.
-- Análisis exploratorio de datos (EDA) para detectar patrones relevantes.
-- Creación de un dashboard interactivo en Power BI para visualizar los resultados.
-
-## 3. Estructura del Proyecto
+## 2. Estructura del Proyecto
 Este proyecto consta de las siguientes etapas principales:
 
 ### Limpieza de Datos
-Se eliminan valores faltantes y se corrigen inconsistencias en las columnas principales.
+Se realiza chequeo de nulos, tratamiento de valores faltantes y duplicados, verificaciópn de tipos de dato y se corrigen inconsistencias en las columnas principales.
 Se utiliza un diccionario de datos para entender las variables claves de los siniestros viales.
 
 ### Análisis Exploratorio de Datos (EDA)
