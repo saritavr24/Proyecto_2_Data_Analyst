@@ -1,5 +1,19 @@
 README.md - Homicidios por Siniestros Viales en la Ciudad Autónoma de Buenos Aires
 
+Tabla de Contenido
+Título del Proyecto
+Descripción
+Estructura del Proyecto
+Limpieza de Datos
+Análisis Exploratorio de Datos (EDA)
+ETL
+Dashboard en Power BI
+Requerimientos
+Instrucciones de Instalación
+Uso
+Dashboard
+Licencia
+
 
 1. Título del Proyecto
 Homicidios por Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA)
